@@ -1,5 +1,5 @@
 # `loke.rs`
-> Run yo damn test cases
+> Run yo damn assignment test cases
 
 ## How 2 run yo?
 ```
