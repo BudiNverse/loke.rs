@@ -1,4 +1,4 @@
-`# loke.rs`
+# `loke.rs`
 > Run yo damn test cases
 
 ## How 2 run yo?
@@ -36,3 +36,12 @@ lokers --executable .\main_3.exe --test-file ..\assignment_2\qn3_testcase.json
     }
 ]
 ```
+
+## How 2 build man?
+You will need the rust compiler
+```
+cargo build --release
+```
+
+## Got EXE to just download?
+Yeah [bruh](https://github.com/BudiNverse/loke.rs/releases/tag/0.1.0)
